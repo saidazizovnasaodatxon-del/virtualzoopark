@@ -1,0 +1,65 @@
+.mavzu {
+    border: 3px solid red;
+    background-color: rgb(166, 204, 237);
+    text-align: center;
+    border-radius: 30px;
+    font-size: 15px;
+    padding: 2px;
+}
+
+span {
+    background-color: yellow;
+    color: gree;
+}
+
+.sariq {
+    background-color: yellow;
+    color: green;
+    text-align: center;
+}
+
+.sher {
+    background-color: black;
+    text-align: center;
+
+}
+
+.fikr {
+    color: green;
+}
+
+.yashil {
+    background-color: rgb(121, 168, 211);
+    width: 200px;
+    height: 40px;
+    color: white;
+}
+
+.yashil1 {
+    background-color: green;
+}
+
+table {
+    border-collapse: collapse;
+    width: 1500px;
+    height: 100px;
+    color: white;
+
+}
+
+table tr th{
+    text-align: center;
+}
+
+table tr td{
+    font-size: 20px;
+}
+
+.qzil{
+    background-color: red;
+}
+
+.qora{
+    background-color: black;
+}
+
